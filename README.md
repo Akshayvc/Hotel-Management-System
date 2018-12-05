@@ -9,4 +9,4 @@ Step 3: Open the any browser (chrome or firefox). go to localhost/phpmyadmin.
 Step 4: Create database name called "restaurant".
 Step 5: Select the "import" option on top.
 Step 6: Choose the file in db folder "restaurant.sql" and click on GO.
-Step 7: Type localhost/extracted folder name your are good to go.
+Step 7: Type localhost/extracted_folder_name your are good to go.
